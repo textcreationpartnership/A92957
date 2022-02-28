@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A funeral tear, to the memory of the Honourable Capt. James Killigrew who unfortunately lost his life in His Majesty's service, in an engagement with two French men of war, in the Mediterranean sea, on the 27th. of January last, 1694/5 ... By E. Settle.</title>
+            <author>Settle, Elkanah, 1648-1724.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92957</idno>
+            <idno type="STC">Wing S2687A</idno>
+            <idno type="STC">ESTC R42323</idno>
+            <idno type="EEBO-CITATION">36272991</idno>
+            <idno type="OCLC">ocm 36272991</idno>
+            <idno type="VID">150280</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92957)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150280)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2239:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A funeral tear, to the memory of the Honourable Capt. James Killigrew who unfortunately lost his life in His Majesty's service, in an engagement with two French men of war, in the Mediterranean sea, on the 27th. of January last, 1694/5 ... By E. Settle.</title>
+                  <author>Settle, Elkanah, 1648-1724.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Hayhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Title within heavy line border.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Killigrew, James, d. 1695 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150280:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 34 -->
+            <p>A Funeral TEAR, TO THE MEMORY OF THE HONOURABLE <hi>Capt. Iames Killigrew:</hi> WHO Unfortunately loſt His Life in His <hi>MAJESTY</hi>'s Service, in an Engagement with Two <hi>French</hi> Men of War, in the <hi>Mediterranean Sea;</hi> on the 27th. of <hi>January</hi> laſt, 1694/5.</p>
+            <q>
+               <l>Immodicis Brevis eſt Aetas, &amp; rara Senectus.</l>
+            </q>
+            <p>By <hi>E. SETTLE.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>R. Hayhurſt,</hi> in <hi>Little-Britain,</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:150280:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 35 -->
+            <pb n="3" facs="tcp:150280:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 35 -->
+            <head>A Funeral Tear, &amp;c.</head>
+            <lg>
+               <l>HOW ſtrangely <hi>Nature</hi> does Her <hi>Treaſures</hi> heap;</l>
+               <l>Her <hi>Richeſt Jems,</hi> in Cabinets ſo <hi>Cheap!</hi>
+               </l>
+               <l>Her Sparks of <hi>Heav'n</hi> to Walls of <hi>Earth</hi> diſpos'd,</l>
+               <l>And the Great <hi>Souls</hi> in Brittle <hi>Clay</hi> enclos'd:</l>
+               <l>All <hi>Riches</hi> have their <hi>Wings;</hi> ev'n <hi>Courage</hi> dies;</l>
+               <l>The <hi>Casket</hi> breaks, and vaniſhing <hi>Jewel</hi> flies:</l>
+               <l>Weak-Armour'd <hi>Life!</hi> In <hi>Wars</hi> deſtroying Field,</l>
+               <l>Neither the <hi>Champion,</hi> nor the <hi>Cauſe,</hi> can ſhield!</l>
+            </lg>
+            <lg>
+               <l>In Her whole Liſt, <hi>Britannia</hi> ne'er cou'd boaſt</l>
+               <l>More Hopeful <hi>WORTH,</hi> nor more <hi>
+                     <g ref="char:V">Ʋ</g>ntimely</hi> loſt;</l>
+               <l>Not wak'd, like Sluggards, at their Noon-day Sun;</l>
+               <l>
+                  <hi>HONO<g ref="char:V">Ʋ</g>R</hi> His Active <hi>Morning Race</hi> begun:</l>
+               <l>Such <hi>YO<g ref="char:V">Ʋ</g>TH</hi> did never <hi>Manlier Virtue</hi> grace,</l>
+               <l>The <hi>Soul</hi> of <hi>Mars,</hi> in an <hi>Endimion</hi>'s Face!</l>
+               <l>
+                  <hi>YO<g ref="char:V">Ʋ</g>TH,</hi> where thoſe equal <hi>Charms</hi> all ſmiling grew,</l>
+               <l>For <hi>Cynthia</hi>'s Darling, and <hi>Bellona</hi>'s too!</l>
+            </lg>
+            <lg>
+               <l>Nor in His ſingle Veins ſuch <hi>CO<g ref="char:V">Ʋ</g>RAGE</hi> runs;</l>
+               <l>Sprung from a <hi>Race,</hi> adopted <hi>Neptune</hi>'s Sons;</l>
+               <l>Cheer as Their <hi>Quarrel,</hi> when bold <hi>Danger</hi> calls,</l>
+               <l>And Stout, as Their own <hi>Floating Caſtle</hi> Walls:</l>
+               <l>His <hi>Brother</hi>'s <hi>FLAG,</hi> with His own <hi>Streamers,</hi> joyn'd;</l>
+               <l>
+                  <hi>Hereditary</hi> Brav'ry! Comes of <hi>Kind!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Methinks, I ſee His Single dauntleſs <hi>Hulk,</hi>
+               </l>
+               <l>Againſt His Two tall <hi>Foe</hi>'s o'er-topping <hi>Bulk,</hi>
+               </l>
+               <l>Deal round Her <hi>Roaring Deaths,</hi> in Iron Ball;</l>
+               <l>Unequal Combat, Engliſh <hi>VALO<g ref="char:V">Ʋ</g>R</hi> All:</l>
+               <l>There wanted ſo much <hi>Odds</hi> His <hi>Fate</hi> to puſh,</l>
+               <l>Whom leſs than <hi>Weight,</hi> and <hi>Numbers,</hi> ne're cou'd cruſh.</l>
+            </lg>
+            <lg>
+               <l>But let not His Inſulting <hi>Gallic</hi> Foes</l>
+               <l>Too proudly boaſt this <hi>Young</hi> cropt Engliſh <hi>ROSE;</hi>
+               </l>
+               <l>That Vanity Their <hi>Sanguine Bluſhes</hi> tell:</l>
+               <l>He dy'd Their <hi>Lillies</hi> Crimſon, e're He fell.</l>
+               <l>Nay, ſuch true <hi>CO<g ref="char:V">Ʋ</g>RAGE</hi> fought, ev'n beyond Death;</l>
+               <l>His <hi>Thunder</hi> ſtill ſurviv'd, whilſt His <hi>Laſt Breath</hi>
+               </l>
+               <l>Does to His <hi>Neptune</hi>-Succeſſors inſpire</l>
+               <l>His own Great <hi>SO<g ref="char:V">Ʋ</g>L,</hi> that <hi>Tranſmigrating</hi> Fire,</l>
+               <pb n="4" facs="tcp:150280:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 36 -->
+               <l>That to Their Arms <hi>Life, Spir'it,</hi> and <hi>Vengeance</hi> lends,</l>
+               <l>The hovering <hi>Genius</hi> His <hi>Own</hi> Conqueſt ends.</l>
+            </lg>
+            <lg>
+               <l>Nor was this <hi>Scene</hi> of <hi>Albion</hi> Glory pent</l>
+               <l>In Her own <hi>Wat'ry Walls,</hi> (Her <hi>Vaſſal</hi> Element;)</l>
+               <l>The <hi>Tyrrhene</hi> Strand did at thoſe <hi>Bolts</hi> rebound;</l>
+               <l>Not <hi>Thames,</hi> but liſtning <hi>Tyber,</hi> heard the Sound:</l>
+               <l>Nor <hi>Rome</hi>'s alone, but <hi>Rome</hi>'s old <hi>Rival</hi> Shoar;</l>
+               <l>Her <hi>Carthage Africk</hi>-Coaſt, the Echo bore:</l>
+               <l>Nay, ev'n the Neighb'ring <hi>Creſcent</hi> muſt Proclaim</l>
+               <l>The <hi>Britiſh CROSS</hi>'s envy'd <hi>Race</hi> of <hi>FAME:</hi>
+               </l>
+               <l>Such <hi>Diſtant HONO<g ref="char:V">Ʋ</g>R,</hi> her <hi>far</hi> Thunder hurld,</l>
+               <l>To drive her <hi>Hunted</hi> Foes around the <hi>World.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thus his proud <hi>Fame,</hi> on Her moſt tow'ring Wings,</l>
+               <l>At once His <hi>Dirge,</hi> and <hi>Io Paean,</hi> ſings;</l>
+               <l>A Fate, that ev'n in <hi>Death</hi> the <hi>Triumph</hi> bore:</l>
+               <l>The great <hi>Guſtavu</hi>'s Fall cou'd do no more.</l>
+            </lg>
+            <lg>
+               <l>But, oh! hard Fated Lawrels! This <hi>Young Head</hi>
+               </l>
+               <l>So early lodg'd in <hi>Honour</hi>'s Fatal <hi>Bed!</hi>
+               </l>
+               <l>But when in that ſweet <hi>Bloom,</hi> ſuch <hi>CO<g ref="char:V">Ʋ</g>RAGE</hi> dies,</l>
+               <l>His Mourners are not only <hi>Martial</hi> Eyes;</l>
+               <l>The <hi>God,</hi> and His own Anvil <hi>Cyclop</hi>-Crew,</l>
+               <l>Their Tears to that <hi>Young Hand,</hi> ſo juſtly due:</l>
+               <l>A <hi>Hand,</hi> that from Their own Great <hi>Forge</hi> cou'd weild</l>
+               <l>Their Maſſieſt <hi>Bolts;</hi> their keeneſt <hi>Lightning</hi> held:</l>
+               <l>But the whole <hi>Nine,</hi> each <hi>Muſe,</hi> and ev'ry <hi>Grace,</hi>
+               </l>
+               <l>Muſt, at this <hi>Loſs,</hi> bedew her <hi>Virgin Face.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Yes, If the Humbler <hi>Muſes</hi> feebler Sound,</l>
+               <l>Is not in all Thy louder <hi>Tritons</hi> drown'd;</l>
+               <l>Their ſofteſt <hi>Harmony</hi> ſhall tune Thy <hi>Praiſe,</hi>
+               </l>
+               <l>And chant Thy Name in Her Immortal Lays.</l>
+               <l>What tho' in <hi>Foreign Tombs</hi> Thy <hi>Aſhes</hi> ſleep,</l>
+               <l>And diſtant <hi>
+                     <g ref="char:V">Ʋ</g>rns</hi> thoſe Envy'd <hi>Reliques</hi> keep;</l>
+               <l>Yet ſtill Thy Native <hi>Albion</hi> Soyl alone,</l>
+               <l>Shall claim thy <hi>Birth,</hi> a Glory all her Own.</l>
+               <l>What more Thou leav'ſt behind, that larger Claim,</l>
+               <l>Thy fair <hi>Example,</hi> and thy fragrant <hi>FAME,</hi>
+               </l>
+               <l>More than One ſingle <hi>Nation</hi> ſhall ſupply;</l>
+               <l>Let the whole <hi>World</hi> Divide Thy <hi>MEMORY.</hi>
+               </l>
+               <trailer>FINIS.</trailer>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
